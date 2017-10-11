@@ -1,8 +1,10 @@
 # JurassicParking
 
-O Jurassic Parking é um projeto para a disciplina Análise e Projeto de Sistemas da UFRPE, UAG, do semestre letivo 2017.2 ministrada pelo professor Sergio Mendonça.
+Jurassic Parking is a project developed for the subject "Análise e Projeto de Sistemas" (System Project Analysis) from UFRPE-UAG (2017.2) taught by Sérgio Mendonça.
 
->>Desenvolvedores:
+It's a system to manage a parking service.
+
+>>Developers:
 Adelino Lourenço,
 Jefferson Alves,
 Mateus Resende,
