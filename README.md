@@ -5,21 +5,21 @@ Jurassic Parking is a project developed for the subject "Análise e Projeto de S
 It's a system to manage a parking service.
 
 ## Developers:
-Adelino Lourenço: Projetista de Banco de Dados.
+__Adelino Lourenço: Projetista de Banco de Dados.__
   Script de geração do Banco de Dados.
   Dicionário de dados.
   Modelo Entidade-Relacionamento do Banco de Dados.
   
-Jefferson Alves: Arquiteto.
+__Jefferson Alves: Arquiteto.__
   Documento de visão.
   Protótipos de telas.
   
 
-Mateus Resende: Analista.
+__Mateus Resende: Analista.__
   Desenvolver o diagrama de Classes UML.
-	Desenvolver o diagrama de Caso de uso UML.
+  Desenvolver o diagrama de Caso de uso UML.
 
-Victor Souto: Revisor.
+__Victor Souto: Revisor.__
   Regras de Negócio.
   Manual técnico que deverá contar, pelo menos, as informações necessárias para instalação da aplicação.
   
