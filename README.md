@@ -18,6 +18,10 @@ __Jefferson Alves: Arquiteto.__
 __Mateus Resende: Analista.__
   Desenvolver o diagrama de Classes UML.
   Desenvolver o diagrama de Caso de uso UML.
+  
+__Paulo Mateus: Analista.__
+  Desenvolver o diagrama de Classes UML.
+  Desenvolver o diagrama de Caso de uso UML.
 
 __Victor Souto: Revisor.__
   Regras de Negócio.
