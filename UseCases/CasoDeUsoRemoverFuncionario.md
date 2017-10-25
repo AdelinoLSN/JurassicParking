@@ -1,0 +1,2 @@
+# RemoverFuncionário
+A função ```Remover Funcionario``` necessita que exista um Administrador logado. A função consiste na exclusão de um funcionário, para que não seja mais possível o mesmo efetuar procedimentos dentro do sistema. Essas informações são removidas do banco de dados.

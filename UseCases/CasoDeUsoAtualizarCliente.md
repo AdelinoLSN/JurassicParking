@@ -1,0 +1,2 @@
+# AtualizarCliente
+A função ```Atualizar Cliente``` necessita que exista um Funcionário logado. A função consiste na edição do `^^Nome^^`,`^^CPF^^` e `^^Placa do Carro^^` informados anteriormente no momento do cadastro. Essas informações são salvas no banco de dados para que possam ser mantidos atualizados.

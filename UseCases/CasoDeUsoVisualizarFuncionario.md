@@ -1,0 +1,2 @@
+# VisualizarFuncionário
+A função ```Visualizar Funcionario``` necessita que exista um Administrador logado. A função consiste na visualização dos dados cadastrados dos Funcionários. Essas informações são coletadas diretamente do banco de dados.

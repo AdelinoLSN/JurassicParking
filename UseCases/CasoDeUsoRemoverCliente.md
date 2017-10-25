@@ -1,0 +1,2 @@
+# RemoverCliente
+A função ```Remover Cliente``` necessita que exista um Funcionário logado. A função consiste na exclusão de um cliente, para que não seja mais possível visualizar suas informações e histórico dentro do sistema. Essas informações são removidas do banco de dados.

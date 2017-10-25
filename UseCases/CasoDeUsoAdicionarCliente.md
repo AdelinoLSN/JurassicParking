@@ -1,0 +1,2 @@
+# AdicionarCliente
+A função ```Adicionar Cliente``` necessita que exista um Funcionário logado. A função consiste na inserção do `^^Nome^^`,`^^CPF^^` e `^^Placa do Carro^^` de um novo cliente. Essas informações são salvas no banco de dados para que possam ser utilizadas para fazer o controle de entrada e saída do veículo.

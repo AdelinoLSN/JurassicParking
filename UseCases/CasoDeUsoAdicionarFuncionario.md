@@ -1,0 +1,2 @@
+# AdicionarFuncionário
+A função ```Adicionar Funcionario``` necessita que exista um Administrador logado. A função consiste na inserção do `^^Nome^^`,`^^CPF^^`,`^^Login^^` e `^^Senha^^` de um novo funcionário. Essas informações são salvas no banco de dados para que possam ser utilizadas pelo funcionário cadastrado no momento do acesso ao sistema.
