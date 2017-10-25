@@ -1,0 +1,2 @@
+# AtualizarFuncionário
+A função ```Atualizar Funcionario``` necessita que exista um Administrador logado. A função consiste na edição do `^^Nome^^`,`^^CPF^^`,`^^Login^^` e `^^Senha^^` informados anteriormente no momento do cadastro. Essas informações são salvas no banco de dados para que possam ser mantidos atualizados.

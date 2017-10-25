@@ -1,0 +1,2 @@
+# VisualizarCliente
+A função ```Visualizar Cliente``` necessita que exista um Funcionário logado. A função consiste na visualização dos dados cadastrados dos Clientes. Essas informações são coletadas diretamente do banco de dados.
