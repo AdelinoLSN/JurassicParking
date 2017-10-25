@@ -1,0 +1,1 @@
+__Reservar Vaga__ - Função na qual um funcionário logado irá realizar uma reserva de uma vaga para algum cliente (apenas clientes cadastrados possuem essa possibilidade), basicamente haverá uma busca no banco de dados pelo cliente, e a partir disso uma nova entrada no banco de dados que marque a entrada, ocorrerá.
