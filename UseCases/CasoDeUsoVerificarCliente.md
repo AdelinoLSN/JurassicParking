@@ -1,0 +1,1 @@
+__Verificar Cliente__ - Função que irá buscar no banco de dados um cliente físico por algum dado (nome, cpf, placa de automóvel cadastrado) e retornará as informações completas do cliente, que podem ser utilizadas pelo reservar vaga ou apenas para listagem.
