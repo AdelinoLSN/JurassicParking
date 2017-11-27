@@ -1,0 +1,11 @@
+DONE: 
+	*Documento de visão (conforme modelo anexo);
+	*Casos de Uso (conforme modelo anexo);
+	*Modelo Entidade-Relacionamento do Banco de Dados;
+	*Dicionário de Dados (conforme modelo anexo);
+	*Declaração de originalidade do aplicativo e de que nenhum elemento do seu conteúdo viola direitos autorais;
+
+TODO:
+	Regras de Negócio (conforme modelo anexo);
+	Protótipos de telas;
+	Documento de apresentação da proposta.
