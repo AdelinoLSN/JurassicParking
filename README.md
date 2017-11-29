@@ -1,4 +1,4 @@
-[Logo](https://i.imgur.com/ahvCnVe.png)
+![Logo](https://i.imgur.com/ahvCnVe.png)
 
 # JurassicParking
 
