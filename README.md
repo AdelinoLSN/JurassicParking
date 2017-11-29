@@ -1,6 +1,6 @@
 # JurassicParking
 
-![Logo](https://i.imgur.com/qQuHJQQ.jpg)
+![Logo](https://i.imgur.com/6EsZoY0.jpg)
 
 Jurassic Parking is a project developed for the subject "Análise e Projeto de Sistemas" (System Project Analysis) from UFRPE-UAG (2017.2) taught by Sérgio Mendonça.
 
