@@ -3,7 +3,7 @@
 # JurassicParking
 
 
-Click here to access our website: [jp.com](bit.ly/JParking "JurassicParking Website").<br>
+Click here to access our website: [jp.com](https://bit.ly/JParking "JurassicParking Website").<br>
 All documents are avaliable in [jp.com/docs](https://github.com/AdelinoN/JurassicParking/tree/master/Documents "Documentação").<br>
 All diagrams are avaliable in [jp.com/diagrams](https://github.com/AdelinoN/JurassicParking/tree/master/Diagrams "Diagramas").
 
