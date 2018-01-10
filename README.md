@@ -2,31 +2,20 @@
 
 # JurassicParking
 
+
+Click here to access our website: [jp.com](bit.ly/JParking "JurassicParking Website").<br>
+All documents are avaliable in [jp.com/docs](https://github.com/AdelinoN/JurassicParking/tree/master/Documents "Documentação").<br>
+All diagrams are avaliable in [jp.com/diagrams](https://github.com/AdelinoN/JurassicParking/tree/master/Diagrams "Diagramas").
+
 Jurassic Parking is a project developed for the subject "Análise e Projeto de Sistemas" (System Project Analysis) from UFRPE-UAG (2017.2) taught by Sérgio Mendonça.
 
 It's a system to manage a parking service.
 
 ## Developers:
-__Adelino Lourenço: Projetista de Banco de Dados.__
-  Script de geração do Banco de Dados.
-  Dicionário de dados.
-  Modelo Entidade-Relacionamento do Banco de Dados.
+_Adelino Lourenço: Database Administrator._<br>
+_Jefferson Alves: Architect._<br> 
+_Mateus Resende: Analyst._ <br>
+_Paulo Mateus: Analyst._ <br>
+_Victor Souto: Reviser._
   
-__Jefferson Alves: Arquiteto.__
-  Documento de visão.
-  Protótipos de telas.
-  
-
-__Mateus Resende: Analista.__
-  Desenvolver o diagrama de Classes UML.
-  Desenvolver o diagrama de Caso de uso UML.
-  
-__Paulo Mateus: Analista.__
-  Desenvolver o diagrama de Classes UML.
-  Desenvolver o diagrama de Caso de uso UML.
-
-__Victor Souto: Revisor.__
-  Regras de Negócio.
-  Manual técnico que deverá contar, pelo menos, as informações necessárias para instalação da aplicação.
-  
->>UFRPE-UAG 2017
+>>UFRPE-UAG 2017-2018 ® Todos os direitos reservados.
