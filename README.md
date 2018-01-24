@@ -7,7 +7,7 @@ Click here to access our website: [jp.com](https://bit.ly/JParking "JurassicPark
 All documents are avaliable in [jp.com/docs](https://github.com/AdelinoN/JurassicParking/tree/master/Documents "Documentação").<br>
 All diagrams are avaliable in [jp.com/diagrams](https://github.com/AdelinoN/JurassicParking/tree/master/Diagrams "Diagramas").<br>
 Click here to access our screens: [jp.com/screens](https://pr.to/LXILUE/ "Telas").<br>
-Click here to acces all informations about our database system: [jp.com/db](https://github.com/AdelinoN/JurassicParking/tree/master/Database "Banco de Dados).
+Click here to acces all informations about our database system: [jp.com/db](https://github.com/AdelinoN/JurassicParking/tree/master/Database "Telas").
 
 Jurassic Parking is a project developed for the subject "Análise e Projeto de Sistemas" (System Project Analysis) from UFRPE-UAG (2017.2) taught by Sérgio Mendonça.
 
